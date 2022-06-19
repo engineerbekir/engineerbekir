@@ -1,7 +1,7 @@
 ### Hi, I'm Bekir 👋
 
 ## 👨🏼‍✈️ About Me
-- I do content on design and development  
+- I do content on design and development with Python and C/C++ pragramming language  
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: bekirozturk95@hotmail.com
 
