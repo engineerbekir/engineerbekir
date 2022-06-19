@@ -1,10 +1,10 @@
 ### Hi, I'm Bekir 👋
 
 ## 👨🏼‍✈️ About Me
-
+- I do content on design and development  
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: bekirozturk95@hotmail.com
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 
 ## 📊 My Github Stats
