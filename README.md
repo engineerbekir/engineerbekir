@@ -2,7 +2,6 @@
 
 ## 👨🏼‍✈️ About Me
 
-
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: bekirozturk95@hotmail.com
 - 😄 Pronouns: ...
