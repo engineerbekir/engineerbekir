@@ -1,6 +1,6 @@
 ### Hi, I'm Bekir 👋
 
-## 👨🏼‍✈️ About me
+## 👨🏼‍✈️ About Me
 
 
 - 🌱 I’m currently learning ...
