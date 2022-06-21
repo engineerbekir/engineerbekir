@@ -7,7 +7,7 @@
 - 📫 How to reach me: bekirozturk95@hotmail.com, https://medium.com/@expertcomputervision
 
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Swimming, hiking, reading books (written in scientific, historical, autobiographical and strategic fields) 
 
 ## 📊 My Github Stats
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=engineerbekir&theme=algolia&show_icons=true" width = "820" height ="220"/>
