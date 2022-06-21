@@ -4,7 +4,8 @@
 - I do content on design and development with Python and C/C++ pragramming language  
 - I am working on Qt designer project with Python and C++  pragramming languages
 - 🌱 I’m currently learning Qt Designer, OpenCV ,Deep Learning  
-- 📫 How to reach me: bekirozturk95@hotmail.com, https://medium.com/me/stories/public
+- 📫 How to reach me: bekirozturk95@hotmail.com, https://medium.com/@expertcomputervision
+
 
 - ⚡ Fun fact: ...
 
