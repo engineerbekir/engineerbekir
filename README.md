@@ -8,5 +8,5 @@
 - ⚡ Fun fact: ...
 
 ## 📊 My Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=engineerbekir&theme=algolia&show_icons=true)\n
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=engineerbekir&theme=algolia&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbekir&theme=tokyonight)
