@@ -12,5 +12,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=engineerbekir&theme=algolia&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbekir&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 📸 Example of Work
-<img align="middle" src = "https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif" width = "500" heigh ="220"/>
+<img align="center" src = "https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif" width = "500" heigh ="220"/>
 
