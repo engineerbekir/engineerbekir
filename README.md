@@ -15,5 +15,5 @@
 
 
 ## 📸 Example of Work
-<img align="center" src = "https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif" width = "600" height ="300"/>
+<img align="center" src = "https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif" width = "900" height ="400"/>
 
