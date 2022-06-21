@@ -9,11 +9,11 @@
 - ⚡ Fun fact: ...
 
 ## 📊 My Github Stats
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=engineerbekir&theme=algolia&show_icons=true" width = "700" heigh ="220"/>
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=engineerbekir&theme=algolia&show_icons=true" width = "700" height ="220"/>
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbekir&theme=tokyonight&layout=compact]https://github.com/anuraghazra/github-readme-stats" width = "400" heigh ="200"/>
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbekir&theme=tokyonight&layout=compact]https://github.com/anuraghazra/github-readme-stats" width = "400" height ="220"/>
 
 
 ## 📸 Example of Work
-<img align="center" src = "https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif" width = "500" heigh ="220"/>
+<img align="center" src = "https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif" width = "500" height ="220"/>
 
