@@ -11,7 +11,7 @@
 ## 📊 My Github Stats
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=engineerbekir&theme=algolia&show_icons=true" width = "820" height ="220"/>
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbekir&theme=tokyonight&layout=compact]https://github.com/anuraghazra/github-readme-stats" width = "820" height ="220"/>
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbekir&theme=tokyonight&layout=compact]https://github.com/anuraghazra/github-readme-stats" width = "820" height ="200"/>
 
 
 ## 📸 Example of Work
