@@ -9,5 +9,5 @@
 
 ## 📊 My Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=engineerbekir&theme=algolia&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbekir&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engineerbekir&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbekir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
