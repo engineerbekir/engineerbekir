@@ -1,4 +1,4 @@
-## Hi, I'm Bekir 👋
+# Hi, I'm Bekir 👋
 
 ## 👨🏼‍✈️ About Me
 - I do content on design and development with Python and C/C++ pragramming language  
