@@ -1,7 +1,7 @@
 # Hi, I'm Bekir 👋
 
 ## 👨🏼‍✈️ About Me
-- I do content on design and development with Python and C/C++ pragramming language  
+- I do content on design and development with Python and C/C++ pragramming languages  
 - I am working on Qt designer project with Python and C++  pragramming languages
 - 🌱 I’m currently learning Qt Designer, OpenCV ,Deep Learning  
 - 📫 How to reach me: bekirozturk95@hotmail.com, https://medium.com/@expertcomputervision
