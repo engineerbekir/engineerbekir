@@ -2,7 +2,7 @@
 
 ## 👨🏼‍✈️ About Me
 - I do content on design and development with Python and C/C++ pragramming language  
-- 🌱 I’m currently learning Qt, OpenCV 
+- 🌱 I’m currently learning Qt Designer, OpenCV ,Deep Learning  
 - 📫 How to reach me: bekirozturk95@hotmail.com
 
 - ⚡ Fun fact: ...
