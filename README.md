@@ -3,7 +3,8 @@
 ## 👨🏼‍✈️ About Me 
 - 🎪I am working on Qt designer project with Python and C++  pragramming languages
 - 🌱 I’m currently learning Qt Designer, OpenCV ,Deep Learning  
-- 📫 How to reach me: bekirozturk95@hotmail.com, https://medium.com/@expertcomputervision
+- 📫 How to reach me: bekirozturk95@hotmail.com
+- 💎 Medium account: https://medium.com/@expertcomputervision
 
 
 - ⚡ Fun fact: Swimming, hiking, reading books (written in scientific, historical, autobiographical and strategic fields) 
