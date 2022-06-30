@@ -1,7 +1,7 @@
 # Hi, I'm Bekir 👋
 
 ## 👨🏼‍✈️ About Me 
-- 🎪I am working on Qt designer project with OpenCV and Multi-Tread
+- 🎪I am working on Qt designer project with OpenCV,Multi-Tread and deep learning 
 - 🌱 I’m currently learning Qt Designer, OpenCV ,Deep Learning  
 - 📫 How to reach me: bekirozturk95@hotmail.com
 - 💎 Medium account: https://medium.com/@expertcomputervision
