@@ -2,7 +2,7 @@
 
 ## 👨🏼‍✈️ About Me 
 - 🎪I am working on Qt designer project with OpenCV,Multi-Tread and deep learning 
-- 🌱 I’m currently learning Qt Designer, OpenCV ,Deep Learning  
+- 🌱 I’m currently learning Qt Designer, OpenCV ,Deep Learning, Android for OpenCV  
 - 📫 How to reach me: bekirozturk95@hotmail.com
 - 💎 Medium account: https://medium.com/@expertcomputervision
 
