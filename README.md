@@ -16,5 +16,5 @@
 
 
 ## 📸 Example of Work
-<img align="center" src = "https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif" width = "800" height ="400"/>
+<img align="center" src = "https://github.com/engineerbekir/ObjectSegmantationWithDetectron2/blob/master/objectsegmantation.gif" width = "800" height ="400"/>
 
