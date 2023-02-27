@@ -1,7 +1,7 @@
 # Hi, I'm Bekir 👋
 
 ## 👨🏼‍✈️ About Me 
-- 🎪I am working on Computer Vision project with Multi-Tread, machine learning ,deep learning and Qt designer 
+- 🎪I am working on Computer Vision project using Multi-Tread,data science, machine learning ,deep learning and Qt designer 
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning(PyTorch, Tensorflow and Keras), Qt Designer, OpenCV and OpenCV DNN
 - 📫 How to reach me: bekirozturk95@hotmail.com
 - 💎 Medium account: https://medium.com/@expertcomputervision
