@@ -2,7 +2,7 @@
 
 ## 👨🏼‍✈️ About Me 
 - 🎪I am working on AI projects using data science, machine learning ,deep learning, multi-tread and Qt designer 
-- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning(PyTorch, Tensorflow and Keras), Qt Designer, OpenCV and OpenCV DNN
+- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning(PyTorch, Tensorflow and Keras), Computer Vision and Qt Designer.
 - 📫 How to reach me: bekirozturk95@hotmail.com
 - 💎 Medium account: https://medium.com/@expertcomputervision
 
