@@ -2,7 +2,7 @@
 
 ## 👨🏼‍✈️ About Me 
 - 🎪I am working on AI projects 
-- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning(PyTorch, Tensorflow and Keras), Computer Vision and Qt Designer.
+- 🌱 I’m currently learning Data Science(like big data ecosystem analysis using spark and so on), Machine Learning, Deep Learning(Tensorflow and Keras,PyTorch), Computer Vision 
 - 📫 How to reach me: bekirozturk95@hotmail.com
 - 💎 Medium account: https://medium.com/@expertcomputervision
 
