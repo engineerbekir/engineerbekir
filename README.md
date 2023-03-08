@@ -7,7 +7,7 @@
 - 💎 Medium account: https://medium.com/@expertcomputervision
 
 
-- ⚡ Fun fact: Swimming, hiking, reading books (written in scientific, historical, autobiographical and strategic fields) 
+- ⚡ Fun fact: Swimming, hiking, archery
 
 ## 📊 My Github Stats
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=engineerbekir&theme=algolia&show_icons=true" width = "820" height ="220"/>
