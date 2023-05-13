@@ -1,7 +1,7 @@
 # Hi, I'm Bekir 👋
 
 ## 👨🏼‍✈️ About Me 
-- 🎪I am working on AI projects 
+- 🎪I am working as Machine Learning Engineer at (Imona Technologies A.S)[https://www.imona.com/]
 - 🌱 I’m currently learning Data Science(data analysis and big data ecosystem analysis using apache spark and so on), Machine Learning,  MLOps (Machine Learning Operations),  Deep Learning(Tensorflow & Keras and PyTorch), Computer Vision 
 - 📫 How to reach me: bekirozturk95@hotmail.com
 - 💎 Medium account: https://medium.com/@expertcomputervision
