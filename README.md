@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Science(data analysis and big data ecosystem analysis using apache spark and so on), Machine Learning,  MLOps (Machine Learning Operations),  Deep Learning(Tensorflow & Keras and PyTorch), Computer Vision 
 - 📫 How to reach me: bekirozturk95@hotmail.com
 - 💎 Medium account: https://medium.com/@expertcomputervision
-
+- 💎 Kaggle account: https://www.kaggle.com/bekirztrk 
 
 - ⚡ Fun fact: Swimming, hiking, archery
 
