@@ -1,7 +1,7 @@
 # Hi, I'm Bekir 👋
 
 ## 👨🏼‍✈️ About Me 
-- I am working as Artificial Intelligence(R&D)at [Endeksa](https://www.endeksa.com/tr/)
+- I am working as Artificial Intelligence(R&D) at  [Endeksa](https://www.endeksa.com/tr/)
 - 🎪I was working as Machine Learning Engineer(Intern) at [Imona Technologies A.S](https://www.imona.com/)
 - 🌱 I’m currently learning Data Science(data analysis and big data ecosystem analysis using apache spark and so on), Machine Learning Engineering for Production (MLOps) Specialization, Deep Learning(Tensorflow & Keras and PyTorch), NLP,  Computer Vision 
 - 📫 How to reach me: bekirozturk95@hotmail.com
